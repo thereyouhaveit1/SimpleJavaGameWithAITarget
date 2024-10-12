@@ -1,0 +1,38 @@
+ 
+
+.fence {
+ -fx-background-color:#808080
+}
+ 
+
+ 
+.center{
+	-fx-alignment : center
+	
+}
+.empty {
+ -fx-background-color:#008000;
+ -fx-border-width: 2px;
+    -fx-border-color: #808080;
+}
+.tile {
+ -fx-background-color:#0000ff;
+ -fx-text-fill: #ff0000;
+ -fx-text-alignment:center;
+}.cow {
+ -fx-background-color:#ffffff;
+ -fx-border-width: 2px;
+    -fx-border-color: #808080;
+}
+ .player {
+ -fx-background-color:#000000;
+ -fx-border-width: 2px;
+    -fx-border-color: #808080;
+ 
+ 
+
+}.soiled {
+ -fx-background-color:#800000;
+ -fx-border-width: 2px;
+    -fx-border-color: #808080;
+}
